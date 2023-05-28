@@ -10,8 +10,9 @@ Problem: the rel="me" attribute within the anchor tags is replaced with rel="nof
 <a rel="me" href="https://mastodon.online/@edfoss"></a>
 -->
 
+&lt;a rel="me" href="https://mstdn.social/@edfoss"&gt;&lt; /a &gt;
+
 <pre>
-&lt;a rel=&#34;me&#34; href=&#34;https://mstdn.social/@edfoss&#34;/&gt;
 &lt;a rel=&#34;me&#34; href=&#34;https://mstdn.social/@topics&#34;/&gt;
 &lt;a rel=&#34;me&#34; href=&#34;https://mastodon.social/@edfoss&#34;/&gt;
 &lt;a rel=&#34;me&#34; href=&#34;https://mastodon.online/@edfoss&#34;/&gt;
