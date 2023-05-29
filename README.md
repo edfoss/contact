@@ -10,6 +10,13 @@ No joy: Try enclosing the block of anchors with a code block delimited by triple
 
 No joy: Try enclosing one anchor within single back-tics.
 
+Note that the following link would work as expected with Mastodon verification  
+https://gitlab.com/edfoss/contact/-/raw/main/README.md  
+but looked like heck.
+
+So perhaps the next thing to try is creating a readme.html file and using a raw view mode.
+
+
 <a rel="me" href="https://mstdn.social/@edfoss"></a>
 
 <!--
