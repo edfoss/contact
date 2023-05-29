@@ -16,6 +16,12 @@ but looked like heck.
 
 So perhaps the next thing to try is creating a readme.html file and using a raw view mode.
 
+Result: verification works but when the page is opened from Mastodon in another tab it resembles a plain text file with no clickable links (does half of what is required). This approach is not much better than viewing the README.md file in raw mode.  
+A wordpress blog is easier to setup for most people who are not familiar with github markdown.  
+Doubtful if github markdown language was setup for what I want to do.
+
+Note that a github profile seems to have [not enough for me] four spots for social media accounts which seems to permit verification to work with Mastodon.
+
 
 <a rel="me" href="https://mstdn.social/@edfoss"></a>
 
