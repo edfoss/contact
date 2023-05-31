@@ -22,12 +22,13 @@ Doubtful if github markdown language was setup for what I want to do.
 
 Note that a github profile seems to have [not enough for me] four spots for social media accounts which seems to permit verification to work with Mastodon.
 
+&lt;a rel=&QUOT;me&QUOT; "https://mstdn.social/@edfoss" &gt;GenericAccount&lt;/a&gt;  
+&lt;a rel=&QUOT;me&QUOT; &QUOT;https:&sol;&sol;mstdn.social&sol;@topics&QUOT; &gt;Topics&lt;&sol;a&gt;
 
-<a rel="me" href="https://mstdn.social/@edfoss"></a>
 
 <!--
+<a rel="me" href="https://mstdn.social/@edfoss">Contact</a>
 <a rel="me" href="https://mstdn.social/@edfoss"></a>
-<a rel="me" href="https://mstdn.social/@topics"></a>
+<a rel="me" href="https://mstdn.social/@topics2"></a>
 <a rel="me" href="https://mastodon.social/@edfoss"></a>
-<a rel="me" href="https://mastodon.online/@edfoss"></a>
 -->
